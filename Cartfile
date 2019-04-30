@@ -1,0 +1,3 @@
+github "LoopKit/LoopKit" ~> 2.0
+github "Kylemassey07/dexcom-share-client-swift" "master"
+
